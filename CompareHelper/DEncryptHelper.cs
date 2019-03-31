@@ -1,22 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
-using System.Threading.Tasks;
 
-
-/*
-* 项目名称 ：Panda.Common
-* 类 名 称 ：DEncryptHelper
-* 所在的域 ：HYTCH
-* 命名空间 ：Panda.Common
-* 机器名称 ：CUIPP 
-* CLR 版本 ：4.0.30319.42000
-* 作    者 ：cuipp
-* 创建时间 ：2018-05-02 10:23:56
-*/
-namespace ObjectCompare
+namespace CompareHelper
 {
     /// <summary>
     /// 

@@ -3,18 +3,7 @@ using System.IO;
 using System.Reflection;
 using System.Runtime.Serialization.Formatters.Binary;
 
-
-/*
-* 项目名称 ：ObjectCompare
-* 类 名 称 ：ObjectHelper
-* 所在的域 ：HYTCH
-* 命名空间 ：ObjectCompare
-* 机器名称 ：CUIPP 
-* CLR 版本 ：4.0.30319.42000
-* 作    者 ：cuipp
-* 创建时间 ：2018-04-28 12:06:56
-*/
-namespace ObjectCompare
+namespace CompareHelper
 {
     /// <summary>
     /// 
